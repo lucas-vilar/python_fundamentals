@@ -1,0 +1,2 @@
+Testing a class based context manager!
+Second test

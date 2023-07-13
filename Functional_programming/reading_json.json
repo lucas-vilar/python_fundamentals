@@ -1,0 +1,7 @@
+{
+    "students" : [
+        {"name" : "Lucas", "phone_number" : "12345678", "email" : "lucas@email.com"},
+        {"name" : "Julia", "phone_number" : "87654321", "email" : "julia@email.com"},
+        {"name" : "Fernando", "phone_number" : "13245768", "email" : "fernando@email.com"}
+    ]
+}
