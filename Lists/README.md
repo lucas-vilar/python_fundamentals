@@ -6,10 +6,10 @@ List is a mutable and ordered data strutcure in Python.
 Concatenates all elements of an iterable to the end of the given list.
 
 #### append():
-Add a new item to the end of the list.
+Adds a new item to the end of the list.
 
 #### insert():
-Add a new item in a given index of the list.
+Adds a new item in a given index of the list.
 
 #### pop():
 Removes and returns the element of the given index.
@@ -21,7 +21,7 @@ Removes the given item of the list.
 Returns the index of the given item.
 
 #### count():
-Returns the number of ocurrences of the given item.
+Returns the number of ocurrence of the given item.
 
 #### sort():
 Sort the list ascending.

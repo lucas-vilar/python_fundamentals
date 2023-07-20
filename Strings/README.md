@@ -4,11 +4,11 @@ String is a data structure to represent a sequence of characters. In python, str
 
 ## Ways to manipulate strings in Python
 
-You can iterate through  a string using a for loop
+- You can iterate through  a string using a for loop
 
-You can slice a string using indexes []
+- You can slice a string using indexes [ ]
 
-Python also has several methods to manipulate a string
+- Python also has several methods to manipulate a string
 
 ### Methods to manipulate strings
 
@@ -25,10 +25,10 @@ Returns the given string uppercased
 Returns the given string without any leading, and trailing whitespace
 
 #### split():
-Returns a list from the given string. The string was splitted by the given separator.
+Returns a list from the given string. The string will be splitted by the given separator.
 
 #### join():
-Returns all items in an iterable and joins them into one string.
+Returns all elements in an iterable and joins them into one string.
 
 #### replace():
 Replaces one string by the given one.
@@ -37,7 +37,7 @@ Replaces one string by the given one.
 returns the index of the first occurence of the given string.
 
 #### count():
-Return the number of occurence of the given string.
+Returns the number of occurence of the given string.
 
 #### partition():
 Splits the string in the first occurence of the given separator.

@@ -1,7 +1,7 @@
 # Context managers
 
 ## with statement
-Using with() ensures that the files we are working on will be closed when they are no longer being used.
+Using **with()** ensures that the files we are working on will be closed when they are no longer being used.
 
 ## Class based context managers
 You can implement Class Based context managers through context manager protocol. 

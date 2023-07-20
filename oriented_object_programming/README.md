@@ -1,7 +1,7 @@
 # Oriented object programming
 
 Oriented object programming (OOP) is progamming paradigm based in "objects":
-- Classes: Data types defined by the users
+- Classes: Data types defined by the user
 - Objects: Are instances of classes that have individual data. A unique class can have several Objects.
 - Methods: Are functions inside the class. It describes the objects' behavior.
 - Attributes: Represent different features of the class.
@@ -10,7 +10,7 @@ Oriented object programming (OOP) is progamming paradigm based in "objects":
 ### Inheritance
 When one class "inherits" all methods and properties from another class
 - Child class: The class that inherits the information.
-- Parent class: Tha base class. The class where the information in inherited from.
+- Parent class: The base class. The class where the information in inherited from.
 ### Polymorphism
 Different classes and objects are able to perform the same operation.
 

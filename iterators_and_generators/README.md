@@ -15,7 +15,7 @@ You can also create custom iterators in Python using the iterator protocol (Exam
 ## Built-in iterators in Python
 Python has several ready-to-use custom iterators:
 #### count()
-Count() is an infinite iterator that will repeat an infinite number of times with no trailing period, and no StopIteration exception will be thrown. This interator will count from a first value until we provide some kind of stopping condition. The base syntax of the function looks like this:
+count() is an infinite iterator that will repeat an infinite number of times with no trailing period, and no StopIteration exception will be thrown. This interator will count from a first value until we provide some kind of stopping condition. The base syntax of the function looks like this:
 
 count(start_value, intervals) - **Example 1**
 
